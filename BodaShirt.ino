@@ -15,6 +15,7 @@ int Grace = (Patient + Adventurous + Trustworthy + Stubborn + AthleticBodyType);
 
 void setup() {
 
+
   pinMode(Love, OUTPUT);
   digitalWrite(Love, LOW);
  
