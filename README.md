@@ -12,7 +12,7 @@ Schematics:
 Code:
 
 ```C++
-// Author: Niam Moltta
+// Author: IBNA KAWSAR
 // the setup routine runs once when you press reset:
 void setup() {
   // initialize the digital pin as an output.
@@ -101,7 +101,7 @@ Code that didn't work and you are welcome to suggest any improvements:
 
 ```C++
 //Ava's TRAFFIC INTERSECTION
-//Author: Niam Moltta
+//Author: IBNA KAWSAR
 
 #include <Servo.h>
 #define SENSOR A0
@@ -176,7 +176,8 @@ void loop() {
     delay(1000);
     break;
 
-  case 2:
+
+case 2:
   digitalWrite(a, LOW);
   digitalWrite(b, LOW);
   digitalWrite(c, HIGH);
@@ -362,7 +363,7 @@ Schematics:
 Code:
 ```C++
 //Coward Robot
-//Author: Niam Moltta
+//Author:IBNA KAWSAR
 //this coward Starts reversing when it founds something close.
 
 #define E1 10  // Enable Pin for motor 1
