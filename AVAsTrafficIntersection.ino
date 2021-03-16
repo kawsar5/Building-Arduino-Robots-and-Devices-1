@@ -1,5 +1,5 @@
 //Ava's TRAFFIC INTERSECTION
-//Author: Niam Moltta
+//Author: IBN AKAWSAR
 
 #include <Servo.h>
 #define SENSOR A0
